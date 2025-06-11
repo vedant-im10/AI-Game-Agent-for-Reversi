@@ -18,4 +18,4 @@ This project implements a game-playing agent to compete in the strategic game of
 
 ## 🚀 Performance
 
-The agent was tested in a large-scale competition, achieving a **top 50 rank** among nearly 600 other agents by playing multiple rounds of Reversi against other students' bots.
+The agent was tested in a large-scale competition, achieving a **top 10 rank** among nearly 600 other agents by playing multiple rounds of Reversi against other students' bots.
